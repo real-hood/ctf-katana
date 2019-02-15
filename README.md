@@ -682,7 +682,9 @@ Binary Exploitation/pwn
 	debugfs is a linux terminal tool which can debug / analyse ext2,3,4 file systems
 	
 * ghex
+
 	ghex is a hexeditor to edit binary files
+	'sudo apt install ghex'
 
 
 VisualBasicScript Reversing
